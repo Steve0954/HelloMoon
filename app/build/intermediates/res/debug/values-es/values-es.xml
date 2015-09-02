@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Steve/StudioProjects/HelloMoon/app/src/main/res/values-es/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">HolaLuna</string>
+    <string name="hellomoon_image_description">Neil Armstrong pisando 
+            la luna</string>
+    <string name="hellomoon_play">Tocar</string>
+    <string name="hellomoon_stop">Detener</string>
+</resources>
